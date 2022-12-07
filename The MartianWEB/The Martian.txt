@@ -5,7 +5,7 @@
 		<center>
 	
 			<br><br>
-			<img src="C:\Users\Admin\Desktop\The MartianWEB\Base.jpeg" width="862" height="551" alt="Devblog" title="Devblog">
+			<img src="https://github.com/Wondergame/Wondergame/blob/main/The%20MartianWEB/Base.jpeg" width="862" height="551" alt="Devblog" title="Devblog">
 			<br><br>
 			Временная база
 			<br>
