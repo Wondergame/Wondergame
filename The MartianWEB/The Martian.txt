@@ -1,0 +1,16 @@
+<html>
+	<index.html="https://wondergame.github.io/The-Martian-Dev/">
+	<title> The Martian Devblog </title>
+	<body> 
+		<center>
+	
+			<br><br>
+			<img src="C:\Users\Admin\Desktop\The MartianWEB\Base.jpeg" width="862" height="551" alt="Devblog" title="Devblog">
+			<br><br>
+			Временная база
+			<br>
+			Здесь и будут начинаться все ваши "приключения". С этого момента это полностю вашеличное пространство (но будте бдительны ведь база находиться в аварийном состоянии и никто  не знает откуда на вас может упасть кусок метала). Здесь вы будете работать над поломкой и пытаться хоть как-то связатся с Землёй для дальнейших испытаний.
+			
+		</center>
+	</body>
+</html>
